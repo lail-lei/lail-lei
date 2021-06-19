@@ -7,7 +7,7 @@ I'm currently learning about NLP models like GPT-2 and GPT-3. I'm happiest writi
 
 My favorite data structures are dictionaries/maps and matrices, my favorite algorithm is dijkstra's, and my favorite topic in machine learning is the very unsexy decision tree. I've never met a programming language I don't like. I prefer clarity over cleverness. 
 
-I bake pastries sometimes, tell weird jokes, and go for very slow, very amateur runs. 
+I bake pastries sometimes, and go for very slow, very amateur runs. 
 
 
 <!---
