@@ -5,9 +5,7 @@ Hi, I'm Lailei.
 I think information retrieval algorithms are pretty cool, so I've been on an Elasticsearch kick since January. 
 I'm currently learning about NLP transformer models like GPT-2 and GPT-3. I'm happiest writing APIs and working on servers and databases, but I've got a background in product design, so I can do front end if I _have to_. 
 
-My favorite data structures are dictionaries/maps and matrices and my favorite algorithm is dijkstra's. I've never met a programming language I don't like. I prefer clarity over cleverness. 
-
-I bake pastries sometimes. 
+I've never met a programming language I don't like. I bake pastries sometimes. 
 
 
 <!---
