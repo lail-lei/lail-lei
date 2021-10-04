@@ -3,7 +3,7 @@
 Hi, I'm Lailei. 
 
 I think information retrieval algorithms are pretty cool, so I've been on an Elasticsearch kick since January. 
-I'm currently learning about NLP transformer models like GPT-2 and GPT-3. I'm happiest writing APIs and working on servers and databases, but I've got a background in product design, so I can do front end if I have to. 
+I'm currently learning about NLP transformer models like GPT-2 and GPT-3. I'm happiest writing APIs and working on servers and databases, but I've got a background in product design, so I can do front end too. 
 
 I've never met a programming language I don't like. I bake pastries sometimes. 
 
