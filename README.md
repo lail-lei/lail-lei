@@ -1,10 +1,6 @@
 
 
-Hi, I'm Lailei. I'm a software engineer III at IKEA. This is my personal github account.
-
-I think information retrieval algorithms are pretty cool, so I've been on an Elasticsearch kick since January 2021. I love tinkering with NLP transformer models like GPT-2 and GPT-3 and drawing pictures with CSS. 
-
-I've never met a programming language I don't like. I bake pastries sometimes. 
+Hi, I'm Lailei. This is my personal github account. I bake pastries sometimes. 
 
 
 <!---
